@@ -58,7 +58,7 @@ h1:hover{
     color: var(--Yellow);
     cursor: pointer;
 }
-p{
+h1 + p{
     color: var(--Grey);
     line-height: 1.6;
 }
