@@ -44,7 +44,7 @@ main{
     -ms-border-radius: .625rem;
     -o-border-radius: .625rem;
 }
-h4{
+.learning{
     background-color: var(--Yellow);
     padding: 0.4rem .6rem;
     width: fit-content;
